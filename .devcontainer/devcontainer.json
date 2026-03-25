@@ -1,0 +1,4 @@
+{
+  "name": "my-todo-app",
+  "postStartCommand": "cd my-todo-app && npm install && npm run dev"
+}
