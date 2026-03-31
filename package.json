@@ -1,0 +1,11 @@
+{
+  "name": "my-todo-app-root",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "cd my-todo-app && npm run build",
+    "dev": "cd my-todo-app && npm run dev",
+    "start": "cd my-todo-app && npm run start",
+    "lint": "cd my-todo-app && npm run lint"
+  }
+}
